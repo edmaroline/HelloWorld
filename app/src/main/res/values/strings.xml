@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Edmar Lindão</string>
+    <string name="hello_world">Edmar é dez!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
